@@ -1,0 +1,196 @@
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\ApplicationInsights.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csc.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csc.exe.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csc.rsp
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csi.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csi.rsp
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.AppContext.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.Collections.Immutable.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.IO.FileSystem.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.Reflection.Metadata.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\vbc.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\vbc.exe.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\vbc.rsp
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\VBCSCompiler.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\VBCSCompiler.exe.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Bootcamp32ASP.dll.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Bootcamp32ASP.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Bootcamp32ASP.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Antlr3.Runtime.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\EntityFramework.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\EntityFramework.SqlServer.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.Agent.Intercept.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.DependencyCollector.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.Web.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.WindowsServer.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.ApplicationInsights.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Facebook.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Google.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Twitter.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Web.Infrastructure.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Newtonsoft.Json.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Owin.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Helpers.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Mvc.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Optimization.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Razor.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.Deployment.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.Razor.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\WebGrease.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\WebGridMvc.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Helpers.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Mvc.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Optimization.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Razor.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.Deployment.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.Razor.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Antlr3.Runtime.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Newtonsoft.Json.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\EntityFramework.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\EntityFramework.SqlServer.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Facebook.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Google.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Twitter.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.ApplicationInsights.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.DependencyCollector.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.WindowsServer.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.Web.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\obj\Debug\Bootcamp32ASP.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\obj\Debug\Bootcamp32ASP.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\obj\Debug\Bootcamp32ASP.csprojResolveAssemblyReference.cache
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\ApplicationInsights.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csc.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csc.exe.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csc.rsp
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csi.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\csi.rsp
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.AppContext.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.Collections.Immutable.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.IO.FileSystem.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\System.Reflection.Metadata.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\vbc.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\vbc.exe.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\vbc.rsp
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\VBCSCompiler.exe
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\roslyn\VBCSCompiler.exe.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Bootcamp32ASP.dll.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Bootcamp32ASP.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Bootcamp32ASP.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Antlr3.Runtime.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\EntityFramework.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\EntityFramework.SqlServer.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.Agent.Intercept.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.DependencyCollector.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.Web.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.WindowsServer.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.ApplicationInsights.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Facebook.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Google.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Twitter.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Web.Infrastructure.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Newtonsoft.Json.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Owin.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Helpers.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Mvc.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Optimization.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Razor.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.Deployment.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.Razor.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\WebGrease.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\WebGridMvc.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\EntityFramework.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\EntityFramework.SqlServer.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Helpers.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Mvc.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Optimization.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.Razor.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.Deployment.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Web.WebPages.Razor.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Antlr3.Runtime.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Newtonsoft.Json.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Facebook.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Google.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.Twitter.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.ApplicationInsights.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.DependencyCollector.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.WindowsServer.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\Microsoft.AI.Web.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\obj\Debug\Bootcamp32ASP.csprojResolveAssemblyReference.cache
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\obj\Debug\Bootcamp32ASP.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\obj\Debug\Bootcamp32ASP.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Net.Http.Formatting.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Bootcamp32ASP\bin\System.Net.Http.Formatting.xml

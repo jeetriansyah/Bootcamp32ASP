@@ -1,0 +1,210 @@
+﻿@*@model IEnumerable<Bootcamp32ASP.Models.tb_m_items>*@
+
+@{
+    ViewBag.Title = "Index Items";
+}
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link href="~/Content/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/responsive.bootstrap.min.css" rel="stylesheet" />
+<script src="~/Content/jquery.dataTables.min.js"></script>
+<script src="~/Content/dataTables.bootstrap4.min.js"></script>
+<link media="screen" rel="stylesheet" href="https://cdn.jsdelivr.net/sweetalert2/6.3.8/sweetalert2.min.css" />
+<link media="screen" rel="stylesheet" href='https://cdn.jsdelivr.net/sweetalert2/6.3.8/sweetalert2.css' />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/sweetalert2/6.3.8/sweetalert2.min.js"> </script>
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New Item", "Create", null, new { @class = "btn btn-primary" })
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newItemModal" onclick="clearTextBox();">Add New Item</button>
+</p>
+
+<table id="dataGrid" class="table table-striped table-bordered dt-responsive nowrap">
+    <thead style="background-color:burlywood; color:white">
+        <tr>
+            <th>
+                @*@Html.DisplayNameFor(model => model.NameItem)*@
+                Item Name
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Stock)*@
+                Stock
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Price)*@
+                Price
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.tb_m_supplier.Name)*@
+                Supplier Name
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody style="background-color:khaki" class="tbody">
+        @*@foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NameItem)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Stock)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tb_m_supplier.Name)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @class = "btn btn-warning" })
+                        @Html.ActionLink("Details", "Details", new { id = item.ID }, new { @class = "btn btn-info" }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @class = "btn btn-danger" })
+                        <button id="btnSweetAlert" type="button" value="Delete" class="btn btn-danger">Delete</button>
+                    </td>
+                </tr>
+            }*@
+    </tbody>
+</table>
+
+<div class="container">
+    <!-- Modal -->
+    <div class="modal fade" id="newItemModal" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Create New Item</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="container">
+                        <form>
+                            <div class="form-group">
+                                <label for="Name">Name:</label>
+                                <input type="text" class="form-control" id="Name" placeholder="Enter Name" name="Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="Stock">Stock:</label>
+                                <input type="number" class="form-control" id="Stock" placeholder="Enter Stock" name="Stock">
+                            </div>
+                            <div class="form-group">
+                                <label for="Price">Price:</label>
+                                <input type="number" class="form-control" id="Price" placeholder="Enter Price" name="Price">
+                            </div>
+                            <div class="form-group">
+                                <label for="Supplier_Id">Supplier:</label>
+                                <div class="dropdown">
+                                    <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">
+                                        Dropdown Example
+                                        <span class="caret"></span>
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">HTML</a></li>
+                                        <li><a href="#">CSS</a></li>
+                                        <li><a href="#">JavaScript</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btnAdd" onclick="return Add();">Add</button>
+                    <button type="button" class="btn btn-primary" id="btnUpdate" style="display:none;" onclick="Update();">Update</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        loadData();
+    });
+    $('#dataGrid').dataTable({
+        "columnDefs": [
+            { "orderable": false, "targets": 4 }
+        ]
+    });
+</script>
+
+@section scripts{
+    <script>
+        //Show Data Table
+        function loadData() {
+            $.ajax({
+                url: "/Items/List",
+                type: "GET",
+                contentType: "application/json;charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    var html = '';
+                    const obj = JSON.parse(result);
+                    $.each(obj, function (key, item) {
+                        html += '<tr>';
+                        html += '<td>' + item.NameItem + '</td>';
+                        html += '<td>' + item.Price + '</td>';
+                        html += '<td>' + item.Stock + '</td>';
+                        html += '<td>' + item.tb_m_supplier.Name + '</td>';
+                        html += '<td> <a href="#" class="btn btn-success" onclick="return getbyID(' + item.ID + ')"><i class="fa fa-pencil">Edit</i></a> | <a href="#" class="btn btn-danger" onclick="Delete(' + item.ID + ')"><i class="fa-trash-o">Delete</i></a></td >';
+                        html += '</tr>';
+                    });
+                    $('.tbody').html(html);
+                },
+                error: function (errormessage) {
+                    console.log(errormessage.responseText);
+                }
+            });
+        }
+
+        //Show Modal
+        function addNewItem() {
+            $("#newItemModel").modal();
+        }
+
+        function saveOrder(data) {
+            return $.ajax({
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                type: 'POST',
+                url: "/Items/SaveOrder",
+                data: data,
+                success: function (result) {
+                    alert(result);
+                    location.reload();
+                },
+                error: function () {
+                    alert("Error!")
+                }
+            });
+        }
+
+        $("#saveItem").click(function (e) {
+            e.preventDefault();
+
+            var itemArr = [];
+            itemArr.length = 0;
+
+            $.each($("#detailsTable tbody tr"), function () {
+                itemArr.push({
+                    NameItem: $(this).find('td:eq(0)').html(),
+                    Price: $(this).find('td:eq(1)').html(),
+                    Stock: $(this).find('td:eq(2)').html(),
+                    Supplier_Id: $(this).find('td:eq(3)').html(),
+                });
+            });
+
+            $.when(saveItem(data)).then(function (response) {
+                console.log(response);
+            }).fall(function (err) {
+                console.log(err);
+            })
+        });
+    </script>
+}

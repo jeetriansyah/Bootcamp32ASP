@@ -1,0 +1,16 @@
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\Data.dll.config
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\Data.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\Data.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\EntityFramework.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\EntityFramework.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\obj\Debug\Data.Migrations.AddSupplierModel.resources
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\obj\Debug\Data.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\obj\Debug\Data.pdb
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\Newtonsoft.Json.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\System.Net.Http.Formatting.dll
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\Newtonsoft.Json.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\bin\Debug\System.Net.Http.Formatting.xml
+D:\RIAN\Bootcamp MII\.Net Programming (c#)\BackUp 2 APS.Net Apps\WebProgramming ASP.NET\Bootcamp32ASP\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
